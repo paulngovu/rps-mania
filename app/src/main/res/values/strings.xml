@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RPS Mania</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="welcomeMsg">Rock Paper Scissors Mania</string>
+</resources>
